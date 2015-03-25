@@ -9,7 +9,7 @@ setup(
     include_package_data=True,
     url='https://github.com/waterdotorg/django-flags/',
     license='GPL',
-    description='Enable site users to flag inappropriate/spam content.'
+    description='Enable site users to flag inappropriate/spam content.',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
